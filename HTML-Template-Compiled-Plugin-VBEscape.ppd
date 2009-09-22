@@ -1,0 +1,9 @@
+<SOFTPKG NAME="HTML-Template-Compiled-Plugin-VBEscape" VERSION="0,03,0,0">
+    <TITLE>HTML-Template-Compiled-Plugin-VBEscape</TITLE>
+    <ABSTRACT>HTML::Template::Compiled::Plugin::VBEscape - VB-Script-Escaping for HTC</ABSTRACT>
+    <AUTHOR>Steffen Winkler &lt;steffenw at cpan.org&gt;</AUTHOR>
+    <IMPLEMENTATION>
+        <DEPENDENCY NAME="HTML-Template-Compiled" VERSION="0,0,0,0" />
+        <CODEBASE HREF="PPM-HTML-Template-Compiled-Plugin-VBEscape-0.03.tar.gz" />
+    </IMPLEMENTATION>
+</SOFTPKG>
